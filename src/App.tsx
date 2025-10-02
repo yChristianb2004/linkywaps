@@ -17,6 +17,12 @@ function App() {
       url: 'https://open.spotify.com/playlist/6fJphnE9P9f5lEu1IZgRwV?si=7a02f62eae8440b6',
       image: '/Spotify-Icon-Logo.wine.svg',
       gradient: 'from-green-500 to-green-600'
+    },
+    {
+      name: 'Discord',
+      url: 'https://discord.gg/yWaps',
+      image: '/discord-6.svg',
+      gradient: 'from-blue-600 to-indigo-700'
     }
   ];
 
