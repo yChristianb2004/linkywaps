@@ -20,7 +20,7 @@ function App() {
     },
     {
       name: 'Discord',
-      url: 'https://discord.gg/yWaps',
+      url: 'https://discord.gg/BEmgx3sbQR',
       image: '/discord-6.svg',
       gradient: 'from-blue-600 to-indigo-700'
     }
@@ -63,7 +63,7 @@ function App() {
                     <img
                       src={link.image}
                       alt={link.name}
-                      className="w-9 h-9 object-contain"
+                      className={`object-contain ${link.name === 'Spotify Playlist' ? 'w-11 h-11' : 'w-9 h-9'}`}
                     />
                   </div>
                   <span className="text-white font-bold text-xl tracking-wide">{link.name}</span>
