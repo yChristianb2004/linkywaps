@@ -2,13 +2,13 @@ function App() {
   const links = [
     {
       name: 'TikTok',
-      url: 'https://www.tiktok.com/@ywaps',
+      url: 'https://www.tiktok.com/@ywaps_',
       image: '/4834215.png',
       gradient: 'from-cyan-500 via-purple-600 to-pink-600'
     },
     {
       name: 'YouTube',
-      url: 'https://www.youtube.com/@yWaps_',
+      url: 'https://www.youtube.com/@yWaps',
       image: '/Youtube_logo.png',
       gradient: 'from-red-600 to-red-700'
     },
