@@ -8,7 +8,7 @@ function App() {
     },
     {
       name: 'YouTube',
-      url: 'https://www.youtube.com/@yWaps',
+      url: 'https://www.youtube.com/@yWaps_',
       image: '/Youtube_logo.png',
       gradient: 'from-red-600 to-red-700'
     },
