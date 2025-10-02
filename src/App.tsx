@@ -63,7 +63,7 @@ function App() {
                     <img
                       src={link.image}
                       alt={link.name}
-                      className={`object-contain ${link.name === 'Spotify Playlist' ? 'w-11 h-11' : 'w-9 h-9'}`}
+                      className={`object-contain ${link.name === 'Spotify Playlist' ? 'w-20 h-20' : 'w-9 h-9'}`}
                     />
                   </div>
                   <span className="text-white font-bold text-xl tracking-wide">{link.name}</span>
